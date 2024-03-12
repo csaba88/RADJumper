@@ -35,7 +35,7 @@
 		   Idle: 
 		Tong
 		   Ugrás:
-		   Támadás:
+		   Támadás: Gurulósszékes pörgőrúgás
 		   Idle: 
 		P
 		JJ
